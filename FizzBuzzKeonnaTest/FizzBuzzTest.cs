@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzKeonnaTest
 {
-    public class Class1
+    public class FizzBuzzTest
     {
     }
 }
