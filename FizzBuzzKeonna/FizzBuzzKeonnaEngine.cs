@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzKeonna
 {
-    public class Class1
+    public class FizzBuzzKeonnaEngine
     {
+        public string DoTheThing(int p)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
